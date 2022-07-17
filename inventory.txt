@@ -1,0 +1,37 @@
+3
+Cannodale Bicycle
+Furnace Room
+TREK943793793
+true
+500
+04/22/3895
+Aurora Cycle, Seattle
+Vintage bike
+C:\\Users\\Swapnil K\\Documents\\NetBeansProjects\\HomeInventory\\src\\main\\java\\com\\mycompany\\homeinventory\\img\\new.PNG
+Cannodale Bicycle2
+Furnace Room
+TREK943793793
+true
+500
+03/22/1995
+Aurora Cycle, Seattle
+Vintage bike
+C:\\Users\\Swapnil K\\Documents\\NetBeansProjects\\HomeInventory\\src\\main\\java\\com\\mycompany\\homeinventory\\img\\delete.PNG
+Cannodale Bicycle3
+Furnace Room
+TREK943793793
+true
+500
+03/22/1995
+Aurora Cycle, Seattle
+Vintage bike
+C:\\Users\\Swapnil K\\Documents\\NetBeansProjects\\HomeInventory\\src\\main\\java\\com\\mycompany\\homeinventory\\img\\save.PNG
+8
+Always Lost
+Basement Office
+Driveway
+Family Room
+Furnace Room
+My Office
+Under My Desk
+Under the other desk
